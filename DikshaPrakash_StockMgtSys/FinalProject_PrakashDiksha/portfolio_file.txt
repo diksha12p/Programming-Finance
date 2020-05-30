@@ -1,0 +1,4 @@
+0	5
+AIG	5
+DELL	5
+GOOG	8

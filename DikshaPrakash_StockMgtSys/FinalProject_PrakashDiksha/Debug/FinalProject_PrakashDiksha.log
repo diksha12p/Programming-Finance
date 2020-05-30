@@ -1,0 +1,8 @@
+﻿  bank_account_prakash.cpp
+  main_prakash.cpp
+  stock_account_prakash.cpp
+c:\users\mikail\desktop\diksha_finalproject\finalproject_prakashdiksha\finalproject_prakashdiksha\stock_account_prakash.cpp(402): warning C4129: 'E': unrecognized character escape sequence
+c:\users\mikail\desktop\diksha_finalproject\finalproject_prakashdiksha\finalproject_prakashdiksha\stock_account_prakash.cpp(417): warning C4129: 'M': unrecognized character escape sequence
+c:\users\mikail\desktop\diksha_finalproject\finalproject_prakashdiksha\finalproject_prakashdiksha\stock_account_prakash.cpp(586): warning C4129: 'E': unrecognized character escape sequence
+  Generating Code...
+  FinalProject_PrakashDiksha.vcxproj -> C:\Users\mikail\Desktop\Diksha_FinalProject\FinalProject_PrakashDiksha\Debug\FinalProject_PrakashDiksha.exe

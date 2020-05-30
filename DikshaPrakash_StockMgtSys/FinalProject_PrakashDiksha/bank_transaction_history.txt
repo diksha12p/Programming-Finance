@@ -1,0 +1,23 @@
+
+Deposit                       $200            12-12-2018 08:43:18    $10200
+Withdrawal                    $100            12-12-2018 08:43:22    $10100
+Withdrawal                    $100            12-12-2018 08:43:32    $10000
+Debited to Stock Account.     $1706.89        18-12-2018 08:44:27    $8293.11
+Debited to Stock Account.     $1709.89        12-12-2018 04:42:50    $6583.22
+Debited to Stock Account.     $70.2           12-12-2018 04:43:09    $6513.02
+Debited to Stock Account.     $185.4          12-12-2018 04:43:17    $6327.62
+Debited to Stock Account.     $5689.64        12-12-2018 05:10:07    $637.98
+Deposit                       $10000          12-12-2018 05:11:04    $10638
+Credited from Stock Account.  $569.964        12-12-2018 05:12:47    $11208
+Debited to Stock Account.     $96.3           17-12-2018 12:32:59    $11111.7
+Debited to Stock Account.     $733.05         17-12-2018 12:34:29    $10378.7
+Debited to Stock Account.     $76.96          17-12-2018 12:34:46    $10301.7
+Debited to Stock Account.     $60.72          17-12-2018 12:36:29    $10241
+Withdrawal                    $10241          17-12-2018 12:37:39    $0
+Deposit                       $10000          17-12-2018 12:38:58    $10000
+Deposit                       $2300           17-12-2018 02:42:54    $12300
+Debited to Stock Account.     $160.5          17-12-2018 02:44:00    $12139.5
+Debited to Stock Account.     $2844.82        17-12-2018 02:44:34    $9294.68
+Debited to Stock Account.     $71.45          17-12-2018 02:45:43    $9223.23
+Debited to Stock Account.     $1709.89        17-12-2018 02:46:20    $7513.34
+Withdrawal                    $700            17-12-2018 02:47:08    $6813.34
